@@ -6,5 +6,5 @@ int main()
      
      printf("Hello Country!\n");
      
-     return;
+     return 0;
 }
